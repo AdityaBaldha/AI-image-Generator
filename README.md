@@ -22,7 +22,7 @@ A machine learning application that detects whether images are AI-generated or r
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/AI-image-detector.git
+git clone https://github.com/AdityaBaldha/AI-image-detector.git
 cd AI-image-detector
 ```
 
