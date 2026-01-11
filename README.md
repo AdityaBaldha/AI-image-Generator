@@ -31,6 +31,10 @@ cd AI-image-detector
 pip install -r requirements.txt
 ```
 
+3. Download the model file:
+   - Download `ai_detector_hybrid.pt` from your storage location
+   - Place it in the project root directory
+
 ## Usage
 
 Run the Streamlit app:
@@ -52,6 +56,8 @@ The app will open in your default browser at `http://localhost:8501`
 The app uses a pre-trained TorchScript model (`ai_detector_hybrid.pt`) that combines:
 - RGB image features from a neural network
 - Frequency domain features from FFT analysis
+
+**Note**: The model file is not included in the repository due to its large size. Download it separately and place in the project root directory.
 
 ## License
 
