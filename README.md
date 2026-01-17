@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ```
 
 3. Download the model file:
-   - Download `ai_detector_hybrid.pt` from your storage location
+   - Download `ai_detector_hybrid.pt` from your storage location: https://drive.google.com/drive/folders/1YtL6lcXk4YvBNIbircbb_BOYiZ-6yRhA?ths=true
    - Place it in the project root directory
 
 ## Usage
@@ -66,3 +66,4 @@ MIT License
 ## Author
 
 Created with Python, PyTorch, and Streamlit
+
